@@ -14,6 +14,7 @@ theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "aqua" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
+
 # Site Settings
 locale                   : "en-US"
 title                    : "Impact-Aware Robot Control and Planning"
@@ -139,6 +140,14 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
+defaults:
+  # _docs
+  - scope:
+      path: ""
+      type: docs
+    values:
+      sidebar:
+        nav: "docs"
 
 
 # Reading Files
@@ -280,12 +289,4 @@ compress_html:
 #      share: true
 #      related: true
 #
-defaults:
-  # _docs
-  - scope:
-      path: ""
-      type: docs
-    values:
-      sidebar:
-        nav: "docs"
 
