@@ -9,15 +9,22 @@ main:
     url: /organizers/
 
   - title: "Acknowledgements"
-    url: /year-archive/
+    url: /acknowledgements/
 
     #- title: "Sitemap"
     #url: /sitemap/
+  - title: "Program"
+    url: /program/
+  - title: "Speakers"
+    url: /year-archive/
+  - title: "Call for Contributions"
+    url: https://forms.gle/YTk99BmY6bynf2jD6
+  - title: "Archive"
+    url: /year-archive/
+
 
 # Sidebar options
 docs:
-  - title: "Program"
-    url: /year-archive/
   - title: "Speakers"
     url: /year-archive/
   - title: "Call for Contributions"
