@@ -25,7 +25,7 @@ permalink: /program/
 | 12:00 - 12:30    |                  |              |                                                              |
 
 
-  * Session Three: Impact-Aware Hardware Design
+  * Session Three: Impact-Aware Walking and Hardware Design
   
 | Time             | Speaker          | Organization |                   Title                                      |
 | -----------------| -----------------|------------- | -------------------------------------------------------------|
