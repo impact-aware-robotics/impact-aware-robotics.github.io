@@ -16,7 +16,9 @@ main:
   - title: "Program"
     url: /program/
   - title: "Speakers"
-    url: /invited-speakers/
+    url: /speakers/
+  - title: "Portfolios"
+    url: /portfolio/
   - title: "Call for Contributions"
     url: https://forms.gle/YTk99BmY6bynf2jD6
   - title: "Archive"
