@@ -145,6 +145,7 @@ footer:
 include:
   - .htaccess
   - _pages
+  - docs/_pages
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -166,7 +167,6 @@ exclude:
   - log
   - node_modules
   - package.json
-  - docs/_pages
   - package-lock.json
   - Rakefile
   - README
