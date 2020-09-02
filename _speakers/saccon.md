@@ -1,6 +1,6 @@
 ---
 title: "Alessandro Saccon"
-excerpt: "Targeted Batting of In-flight Objects by a Robotic Arm"
+excerpt: "Reference Speading Control for Tasks with Multiple Impacts"
 
 layout: archive
 
