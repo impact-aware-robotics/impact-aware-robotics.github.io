@@ -1,14 +1,14 @@
 ---
 permalink: /organizers/
 title: "Organizers"
-excerpt: "Welcome to impact-aware control and planning!"
-toc: true
+author_profile: true 
+layout: single 
+classes: wide
+
 ---
 
-[Yuquan WANG]({{ "https://ywang-robotics.github.io"}}){: .btn .btn--success .btn--large}
-
-[Niels Dehio]({{ "https://scholar.google.com/citations?user=6eIcpHsAAAAJ&hl=de"}}){: .btn .btn--success .btn--large}
-
-[Abderrahmane Kheddar]({{ "https://scholar.google.fr/citations?user=yd4xmlcAAAAJ&hl=en"}}){: .btn .btn--success .btn--large}
-
+| Organizers | | |
+| :-------------------------------------------: | :-----------------------------------------------------: | :-----------------------------------------------------: |
+| <img src="/docs/assets/images/organizers/yuquan.jpg" alt="drawing" width="196"/> |  <img src="/docs/assets/images/organizers/kheddar.jpg" alt="drawing"  width="196"/>| <img src="/docs/assets/images/organizers/yhliu.jpg" alt="drawing" width="196" /> |
+[Yuquan WANG]({{ "https://ywang-robotics.github.io"}}){: .btn .btn--success .btn--medium} |  [Professor Abderrahmane KhEDDAR]({{ "http://jrl-umi3218.github.io/member-kheddar.html"}}){: .btn .btn--success .btn--medium} | [Professor LIU Yun-hui]({{ "http://ri.cuhk.edu.hk/yhliu"}}){: .btn .btn--success .btn--medium}  |
 

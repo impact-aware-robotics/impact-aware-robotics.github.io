@@ -12,16 +12,16 @@
 
 theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "aqua", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" #"default" # "aqua", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Impact-Aware Robot Control and Planning"
+title                    : "High Dynamic Motion Generation" 
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : #"Impact-Aware Robot Control and Planning"
-description              : "An amazing website."
+subtitle                 : for Under-Actuated Robots
+name                     : #"High Dynamic Motion Generation of Under-Actuated Robots"
+description              : "Workshop@ICRA2021."
 url                      : https://impact-aware-robotics.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : impact-aware-robotics/impact-aware-robotics.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -94,11 +94,11 @@ analytics:
 
 # Site Author
 author:
-  name             : #"Your Name"
+  name             : #"High Dynamic Motion Generation of Under-Actuated Robots"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Workshop@ICRA 2021"
+  location         : "Xi-An, China"
+  email            : y.wang.robotics@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -146,6 +146,8 @@ include:
   - .htaccess
   - _pages
   - docs/_pages
+  - docs/_speakers
+  - docs/_topics 
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -270,9 +272,13 @@ collections:
   speakers:
     output: true
     permalink: /:collection/:path/
+  topics:
+    output: true
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
+
 
 # Defaults
 defaults:
@@ -296,17 +302,17 @@ defaults:
         nav: "docs"
   # _speakers
   - scope:
-      path: ""
+      path: "docs/_speakers"
       type: speakers 
     values:
       layout: single
       author_profile: false 
       share: true
       comment: true
-  # _portfolio
+  # _topics
   - scope:
-      path: ""
-      type: portfolio
+      path: "docs/_topics"
+      type: topics
     values:
       layout: single
       author_profile: false 

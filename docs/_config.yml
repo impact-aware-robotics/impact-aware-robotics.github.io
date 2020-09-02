@@ -126,6 +126,8 @@ footer:
 include:
   - .htaccess
   - _pages
+  - _speakers
+  - _topics
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -206,6 +208,24 @@ defaults:
       comments: true
       share: true
       related: true
+
+  # _speakers 
+  - scope:
+      path: "_speakers"
+      type: speakers 
+    values:
+      layout: single
+      author_profile: false 
+
+  # _topics
+  - scope:
+      path: "_topics"
+      type: topics 
+    values:
+      layout: single
+      author_profile: false 
+
+
   # _pages
   - scope:
       path: "_pages"
@@ -213,6 +233,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+
   # _docs
   - scope:
       path: ""

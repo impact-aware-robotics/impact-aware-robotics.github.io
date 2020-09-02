@@ -1,32 +1,27 @@
 # main links
 main:
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "Sample Collections"
-    url: /collection-archive/
-  
-  - title: "Organizers"
-    url: /organizers/
-
-  - title: "Acknowledgements"
-    url: /acknowledgements/
-
-    #- title: "Sitemap"
+  #- title: "Sample Collections"
+  #  url: /collection-archive/
+      #- title: "Sitemap"
     #url: /sitemap/
+  - title: "Topics"
+    url: /topics/
   - title: "Program"
     url: /program/
   - title: "Speakers"
-    url: /speakers/
-  - title: "Portfolios"
-    url: /portfolio/
+    url: /speaker-archive/
+  - title: "Organizers"
+    url: /organizers/
+  - title: "Acknowledgements"
+    url: /acknowledgements/
   - title: "Call for Contributions"
     url: https://forms.gle/YTk99BmY6bynf2jD6
-  - title: "Archive"
-    url: /year-archive/
+
 
 
 # Sidebar options
-docs:
+
+sidebar:
   - title: "Speakers"
     url: /year-archive/
   - title: "Call for Contributions"
