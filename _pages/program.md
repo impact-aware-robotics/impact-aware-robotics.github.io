@@ -10,7 +10,7 @@ permalink: /program/
 | 09:00 - 09:05    |                  |              |     Welcome                                                  |
 | 09:05 - 09:30    |  [Yuquan WANG](https://ywang-robotics.github.io/)     | CNRS-UM, LIRMM | Impact-Aware Task-Space Quadratic Programming Control       |
 | 09:30 - 09:50    |                  |              |                                                              |
-| 09:50 - 10:20    | [JIA Yan-bin](/speakers/yan-bin/) | Iowa State University  | Targeted Batting of In-flight Objects by a Robotic Arm |
+| 09:50 - 10:20    | [JIA Yan-Bin](/speakers/yan-bin/) | Iowa State University  | Targeted Batting of In-flight Objects by a Robotic Arm |
 | 10:20 - 10:30    |                  |              |     Teaser Session of the Posters                            |
 | 10:30 - 11:00    |                  |              |     Morning Tea Break and Poster Session                     |
 

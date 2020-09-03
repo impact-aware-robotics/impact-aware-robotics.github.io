@@ -1,5 +1,5 @@
 ---
-title: "Jia Yan-bin"
+title: "Jia Yan-Bin"
 excerpt: "Targeted Batting of In-flight Objects by a Robotic Arm"
 layout: single 
 classes: wide
