@@ -1,8 +1,8 @@
 ---
 title: "Alessandro Saccon"
 excerpt: "Reference Spreading Control and Sensitivity Analysis About Robot Trajectories with Simultaneous Impacts"
-
-layout: archive
+layout: single 
+classes: wide
 
 sidebar:
   - title: "Assistant Professor"
