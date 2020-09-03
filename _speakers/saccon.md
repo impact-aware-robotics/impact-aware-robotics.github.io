@@ -1,6 +1,6 @@
 ---
 title: "Alessandro Saccon"
-excerpt: "Reference Speading Control for Tasks with Multiple Impacts"
+excerpt: "Reference Spreading Control and Sensitivity Analysis About Robot Trajectories with Simultaneous Impacts"
 
 layout: archive
 

@@ -19,7 +19,7 @@ permalink: /program/
   
 | Time             | Speaker          | Organization |                   Title                                      |
 | -----------------| :-----------------:|:-------------: | :-------------------------------------------------------------:|
-| 11:00 - 11:45    |  [Alessandro Saccon](/speakers/saccon)    | Eindhoven University of Technology    | Multi-Impacts Handling with Reference Spreading Control |
+| 11:00 - 11:45    |  [Alessandro Saccon](/speakers/saccon)    | Eindhoven University of Technology    | Reference Spreading Control and Sensitivity Analysis About Robot Trajectories with Simultaneous Impacts |
 | 11:45 - 12:30    |                  |              |                                                              |
 
 
