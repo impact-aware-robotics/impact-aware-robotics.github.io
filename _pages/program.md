@@ -19,7 +19,7 @@ permalink: /program/
   
 | Time             | Speaker          | Organization |                   Title                                      |
 | -----------------| :-----------------:|:-------------: | :-------------------------------------------------------------:|
-| 11:00 - 11:45    |  [Alessandro Saccon](/speakers/saccon)    | Eindhoven University of Technology    | Reference Spreading Control and Sensitivity Analysis About Robot Trajectories with Simultaneous Impacts |
+| 11:00 - 11:45    |  [Alessandro SACCON](/speakers/saccon)    | Eindhoven University of Technology    | Reference Spreading Control and Sensitivity Analysis About Robot Trajectories with Simultaneous Impacts |
 | 11:45 - 12:30    |                  |              |                                                              |
 
 
@@ -29,7 +29,7 @@ permalink: /program/
 | -----------------| -----------------|------------- | -------------------------------------------------------------|
 | 13:30 - 14:00    |                  |              |                                                              |
 | 14:00 - 14:30    |                  |              |                                                              |
-| 14:30 - 15:00    | [Ren Zeyu](/speakers/zeyu) | [Rokae R&D Center](https://www.rokae.com/) | Design of an Efficient 3-DoF Leg with Series-Parallel and Biarticular Compliant Actuation                                  |
+| 14:30 - 15:00    | [REN Zeyu](/speakers/zeyu) | [Rokae R&D Center](https://www.rokae.com/) | Design of an Efficient 3-DoF Leg with Series-Parallel and Biarticular Compliant Actuation                                  |
 | 15:00 - 15:30    |                  |              |     Afternoon Tea Break and Poster Session                   |
 
  

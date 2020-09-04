@@ -4,7 +4,7 @@ classes: wide
 entries_layout: grid
 author_profile: true 
 
-title: "Handling on-purpose High Dynamic Tasks"
+title: "Handling On-Purpose High Dynamic Tasks"
 excerpt: "We enable swift robot motion without fearing impacts with the environment. For instance in a box manipulation task, the robot does not need to stop or use close-to-zero velocity to establish contacts <br/><img src='/docs/assets/images/impactAwareQP/box-grabbing-crop.png'>"
 ---
 
