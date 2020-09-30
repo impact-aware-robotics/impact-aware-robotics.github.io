@@ -5,13 +5,12 @@ entries_layout: grid
 author_profile: true 
 
 title: "Handling On-Purpose High Dynamic Tasks"
-excerpt: "We enable swift robot motion without fearing impacts with the environment. For instance in a box manipulation task, the robot does not need to stop or use close-to-zero velocity to establish contacts <br/><img src='/docs/assets/images/impactAwareQP/box-grabbing-crop.png'>"
+excerpt: "
+In addition to the human-like kinematic structure, humanoids are expected to execute human-level of swift motions. However referring to the failing manipulation examples in the Darpa Robotics Challenge in 2015, the state-of-the-art humanoid robot control methods still need to applied close-to-zero contact velocity to establish external contacts.
+"
+
 ---
+In addition to the human-like kinematic structure, humanoids are expected to execute human-level of swift motions. However referring to the failing manipulation examples in the Darpa Robotics Challenge in 2015, the state-of-the-art humanoid robot control methods still need to applied close-to-zero contact velocity to establish external contacts.
 
-As a model-based approach, the quadratic-programming controllers need to preview the state jumps due to the impacts. 
+To guarantee hardware feasibility and standing stability, recent model-based control design preview the impact-induced step changes, see Wang et al. (2020). However it is still not clear how to exploit the full kinematic and dynamic potential for high dynamic tasks.
 
-We published the initial idea in  [RSS-2019](/publication/2019-06-22-paper-rss-number-3), where we proposed constraint formulation using  the predicted state jumps. Then we extend the result to floating-base robot in [Humanoids-2019](/publication/2019-10-15-paper-humanoids-number-2). Recently we summarized the generic impact-aware constraint formulation with through theoretical analysis and experiment results in the [IJRR-submission](/publication/2020-06-03-paper-ijrr-number-1)
-
-
-
-[![Impact-aware Task-space Quadratic-programming control](/images/box-grabbing-crop.png)](https://www.youtube.com/watch?v=v1Jfy8-jiwE)
