@@ -27,6 +27,9 @@ collection: speakers
 
 [Alessandro Saccon](https://www.tue.nl/en/research/researchers/alessandro-saccon/) is an Assistant Professor in nonlinear control and robotics at the Mechanical Engineering Department, Eindhoven University of Technology (TU/e). His areas of expertise include nonlinear control and estimation, robotics, numerical optimal control and optimization, multi-body mechanics, and geometric mechanics. Alessandro’s research interests are focused on modeling, analysis, and control of complex and highly dynamical robotic and mechatronic systems. His current research efforts are directed toward the development and validation of innovative control strategies for robotic systems with multiple intermittent contacts, with application in the field of dynamic robot manipulation and locomotion.
 
+
+Sensitivity analysis for hybrid systems with state-triggered jumps is experiencing renewed attention for planning and control of robots with intermittent contacts. The basic assumption that  enables  this  type  of  analysis  is  that  jumps  are  triggered when  the  state  reaches,  transversally,  a  sufficiently  smooth switching  surface.  In  many  scenarios  of  practical  relevance in robotics, however,  this  switching  surface  is  just  piecewise  smooth  and, moreover,  a  perturbation  of  the  initial  conditions  or  the  input leads   to   a   different   number   of   jumps   than   those of the   nominal trajectory.  In this talk, I will present the concept of positive homogenization that allows for a sensitivity  analysis  in  this context.  Numerical simulations will be used to complement and validate  the  theoretical  findings.
+
 <!--
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
 -->
