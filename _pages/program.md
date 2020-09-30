@@ -15,12 +15,12 @@ permalink: /program/
 | 10:30 - 11:00    |                  |              |     Morning Tea Break and Poster Session                     |
 
 
-  * Session Two: Hybrid Control Approach 
+  * Session Two: Control Design to  High Dynamic Performance 
   
 | Time             | Speaker          | Organization |                   Title                                      |
 | -----------------| :-----------------:|:-------------: | :-------------------------------------------------------------:|
-| 11:00 - 11:45    |  [Alessandro SACCON](/speakers/saccon)    | Eindhoven University of Technology    | Reference Spreading Control and Sensitivity Analysis About Robot Trajectories with Simultaneous Impacts |
-| 11:45 - 12:30    |                  |              |                                                              |
+| 11:00 - 11:45    |  [Alessandro SACCON](/speakers/saccon)    | Eindhoven University of Technology    | Reference Spreading Control and Sensitivity Analysis <br>About Robot Trajectories with Simultaneous Impacts |
+| 11:45 - 12:30    |  Roy Featherstone       | Italian Institute of Technology       |  Balancing Made Simple                                                            |
 
 
   * Session Three: Hardware Design with High Impact Affordance
