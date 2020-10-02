@@ -18,7 +18,8 @@ toc: false
 collection: speakers
 ---
 
-Dr. Dragomir N. Nenchev is a Professor at Tokyo City University, Japan. He is a leading robotics expert with 35 years of experience in robotics, focusing on modeling and motion control of redundant robots, parallel-link robots, free-floating space robots, flexible-base robots, humanoid robots, and home robots.
+
+A leading robotics expert with 35 years of experience in robotics, focusing on modeling and motion control of redundant robots, parallel-link robots, free-floating space robots, flexible-base robots, humanoid robots, and home robots.
 
 
 The momentum equilibrium principle reveals the relative character of the spatial momentum equation in floating-base robotics. This talk clarifies how to take advantage of this character in motion generation and the design of a multitask controller for a humanoid robot. We focus especially on the angular momentum of the robot and the inherent redundancy resolution problem referred to as the “momentum distribution problem.” It is shown that with a proper momentum distribution, emergent behaviors (motion synergies) can be obtained that resemble those used by humans. A real-time controller for position and torque controlled humanoid robots is proposed that has a simple structure and that can be used in a broad variety of tasks. The performance of the controller is confirmed in a simulated environment with a number of tasks, including reactive motion control to accommodate external disturbances (both continuous-force and impacts), acrobatic tasks such as a somersault and a long jump, dynamic walking under various gaits with variable CoM height, blind stepping on an unknown obstacle, balancing on a wobble board and so on.
