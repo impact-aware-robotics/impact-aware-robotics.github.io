@@ -1,12 +1,12 @@
 ---
-title: "[Patrick Wensing](https://sites.nd.edu/pwensing)"
+title: "Patrick Wensing"
 excerpt: "It All Matters: Considerations Across Design and Control for Contact-Savvy Robots"
 layout: single 
 classes: wide
 
 sidebar:
   - title: "Director, PhD <br/>
-    Assistant Professor"
+    [Assistant Professor](https://sites.nd.edu/pwensing)"
     image: /docs/assets/images/speakers/patrick.jpeg 
     image_alt: "logo"
     text: "Optimization, and Assistive Mobility (ROAM) Lab <br/>
