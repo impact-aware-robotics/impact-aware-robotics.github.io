@@ -18,17 +18,17 @@ permalink: /program/
   * Session Two: High Dynamic Balance
   
 | Time             | Speaker          | Organization |                   Title                                      |
-| -----------------| :-----------------:|:-------------: | :-------------------------------------------------------------:|
+| -----------------| -----------------|------------- | -------------------------------------------------------------|
 | 11:00 - 11:45    |  [Nenchev NENCHEV](/speakers/nenchev/)   |  Kaishi Professional University | Emergent Humanoid Robot Motion Synergies <br/>Derived from the Momentum Equilibrium Principle and the Distribution of Momentum                                                             |
 | 11:45 - 12:30    |  Roy Featherstone       | Italian Institute of Technology       |  Balancing Made Simple                                                            |
 
 
-  * Session Three: Control and Hardware Design for Walking  
+  * Session Three: Integrated Control and Hardware Design 
   
 | Time             | Speaker          | Organization |                   Title                                      |
 | -----------------| -----------------|------------- | -------------------------------------------------------------|
 | 13:30 - 14:00    |                  |              |                                                              |
-| 14:00 - 14:30    | Patrick Wensing  | University of Notre Dame       |                                                              |
+| 14:00 - 14:30    | [Patrick Wensing](/speakers/patrick)  | University of Notre Dame       |  It All Matters: Considerations Across Design and Control for Contact-Savvy Robots                                                            |
 | 14:30 - 15:00    | [REN Zeyu](/speakers/zeyu) | [Rokae R&D Center](https://www.rokae.com/) | Design of an Efficient 3-DoF Leg with Series-Parallel and Biarticular Compliant Actuation                                  |
 | 15:00 - 15:30    |                  |              |     Afternoon Tea Break and Poster Session                   |
 
