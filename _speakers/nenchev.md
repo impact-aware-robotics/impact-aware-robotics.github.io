@@ -1,5 +1,5 @@
 ---
-title: "Dragomir NENCHEV (Yoshikazu Kanamiya) "
+title: "Dragomir Nenchev (Yoshikazu Kanamiya) "
 excerpt: "Emergent Humanoid Robot Motion Synergies Derived from the Momentum Equilibrium Principle and the Distribution of Momentum"
 layout: single 
 classes: wide
