@@ -19,7 +19,7 @@ permalink: /program/
   
 | Time             | Speaker          | Organization |                   Title                                      |
 | -----------------| -----------------|------------- | -------------------------------------------------------------|
-| 11:00 - 11:45    |  [Nenchev NENCHEV](/speakers/nenchev/)   |  Kaishi Professional University | Emergent Humanoid Robot Motion Synergies <br/>Derived from the Momentum Equilibrium Principle and the Distribution of Momentum                                                             |
+| 11:00 - 11:45    |  [Dragomir NENCHEV (Yoshikazu Kanamiya)](/speakers/nenchev/)   |  Kaishi Professional University | Emergent Humanoid Robot Motion Synergies <br/>Derived from the Momentum Equilibrium Principle and the Distribution of Momentum                                                             |
 | 11:45 - 12:30    |  Roy Featherstone       | Italian Institute of Technology       |  Balancing Made Simple                                                            |
 
 

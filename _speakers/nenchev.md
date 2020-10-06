@@ -27,6 +27,6 @@ The momentum equilibrium principle reveals the relative character of the spatial
  
 |   Experiment Video|
 |:-------------------------:
-| [![Batting-flying-object](/docs/assets/videos/coverDynamicMotion.png)](/docs/assets/videos/dynamicMotion.mp4)
+| [![Batting-flying-object](/docs/assets/videos/coverDynamicMotion.png)](https://youtu.be/gL6TapWvCHA)
 
 
