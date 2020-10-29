@@ -6,7 +6,7 @@ permalink: /program/
   * Session One: High Dynamic Task Modeling and Control
 
 | Time             | Speaker          | Organization |                   Title                                      |
-| -----------------| -----------------|------------- | -------------------------------------------------------------|
+| -----------------| -----------------|------------- | :-------------------------------------------------------------:|
 | 09:00 - 09:05    |                  |              |     Welcome                                                  |
 | 09:05 - 09:30    |  [Yuquan WANG](https://ywang-robotics.github.io/)     | CNRS-UM, LIRMM | Impact-Aware Task-Space Quadratic Programming Control       |
 | 09:30 - 09:50    |  [Alessandro SACCON](/speakers/saccon)    | Eindhoven University of Technology    | Reference Spreading Control and Sensitivity Analysis <br/>About Robot Trajectories with Simultaneous Impacts |
@@ -26,7 +26,7 @@ permalink: /program/
   * Session Three: Control and Hardware Design for Walking  
   
 | Time             | Speaker          | Organization |                   Title                                      |
-| -----------------| -----------------|------------- | -------------------------------------------------------------|
+| -----------------| -----------------|------------- | :-------------------------------------------------------------:|
 | 13:30 - 14:00    |                  |              |                                                              |
 | 14:00 - 14:30    | Patrick Wensing  | University of Notre Dame       |                                                              |
 | 14:30 - 15:00    | [REN Zeyu](/speakers/zeyu) | [Rokae R&D Center](https://www.rokae.com/) | Design of an Efficient 3-DoF Leg with Series-Parallel and Biarticular Compliant Actuation                                  |
@@ -36,8 +36,8 @@ permalink: /program/
    * Session Four:  
    
 | Time             | Speaker          | Organization |                   Title                                      |
-| -----------------| -----------------|------------- | -------------------------------------------------------------|
-| 15:30 - 16:00    |                  |              |                                                              |
+| -----------------| -----------------|------------- | :-------------------------------------------------------------:|
+| 15:30 - 16:00    | [Mehdi Benallegue](/speakers/benallegue)| AIST, Tsukuba Japan |    New challenges for humanoids state observation: <br/>beyond the precision of floating-base kinematics                    |
 | 16:00 - 16:30    |                  |              |                                                              |
 | 16:30 - 17:00    |                  |              |   Summary, Remarks, and Discussions                          |
 
