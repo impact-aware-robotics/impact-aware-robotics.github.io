@@ -1,5 +1,5 @@
 ---
-title: "Dragomir NENCHEV (Yoshikazu Kanamiya) "
+title: "Dragomir Nenchev (Yoshikazu Kanamiya) "
 excerpt: "Emergent Humanoid Robot Motion Synergies Derived from the Momentum Equilibrium Principle and the Distribution of Momentum"
 layout: single 
 classes: wide
@@ -27,6 +27,6 @@ The momentum equilibrium principle reveals the relative character of the spatial
  
 |   Experiment Video|
 |:-------------------------:
-| [![Batting-flying-object](/docs/assets/videos/coverDynamicMotion.png)](/docs/assets/videos/dynamicMotion.mp4)
+| [![Batting-flying-object](/docs/assets/videos/coverDynamicMotion.png)](https://youtu.be/gL6TapWvCHA)
 
 
