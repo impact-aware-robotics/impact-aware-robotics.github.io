@@ -19,7 +19,7 @@ permalink: /program/
 | **Time**             | **Speaker**          | **Organization** |                   **Title**                                      |
 | -----------------| -----------------|------------- | :-------------------------------------------------------------: |
 | 11:00 - 11:45    |  [Dragomir Nenchev ](/speakers/nenchev/) <br/>  (Yoshikazu Kanamiya) |  Kaishi Professional University | Emergent Humanoid Robot Motion Synergies <br/>Derived from the Momentum Equilibrium Principle and the Distribution of Momentum                                                             |
-| 11:45 - 12:30    |  [Roy Featherstone](/speakers/featherstone)       | Italian Institute of Technology       |  Balancing Made Simple                                                            |
+| 11:45 - 12:30    |  [Roy Featherstone](/speakers/featherstone)       | Italian Institute of Technology       |  High Performance Balancing on a Narrow Support|
 | |**Session Three: Integrated Control and Hardware Design**| |
 | -----------------| -----------------|------------- | :-------------------------------------------------------------: |
 | **Time**             | **Speaker**          | **Organization** |                   **Title**                                      |
