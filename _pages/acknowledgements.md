@@ -1,17 +1,12 @@
 ---
 permalink: /acknowledgements/
-title: "Acknowledgements"
+title: "Endorsement"
 toc: false
 author_profile: true 
 layout: single 
 classes: wide
 ---
-Sponsor
-------------
-
-Supporting Technical committees
-------------
-
-Industrial Partners
-------------
+##### IEEE-RAS Technical Committee on Mobile Manipulation 
+##### IEEE-RAS Technical Committee on Humanoid Robotics 
+##### IEEE-RAS Technical Committee on Model-Based Optimization for Robotics
 
