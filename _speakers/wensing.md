@@ -27,7 +27,7 @@ When it comes to our next-generation robots operating in uncertain environments 
 
 | Impact-aware online replanning| Actuator transmission model|
 |:-------------------------:|:----------:|
-|<img src="/docs/assets/images/TimeSeriesv2-crop.jpg" alt="drawing" style="width:1300px;"/> | <img src="/docs/assets/images/Models-crop1.jpg" alt="drawing" style="width:200px;"/>|
+|<img src="/docs/assets/images/TimeSeriesv2-crop.jpg" alt="drawing" style="width:1300px;"/> | <img src="/docs/assets/images/Models-crop1.jpg" alt="drawing" style="width:300px;"/>|
 
 
 
