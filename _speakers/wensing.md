@@ -5,11 +5,13 @@ layout: single
 classes: wide
 
 sidebar:
-  - title: "Director, PhD <br/>
-    Assistant Professor"
-    image: /docs/assets/images/speakers/patrick.jpeg 
+  - title: ""
+    image: /docs/assets/images/speakers/patrick.jpg 
     image_alt: "logo"
-    text: "Optimization, and Assistive Mobility (ROAM) Lab <br/>
+    text: "
+    <h4>PhD, Assistant Professor</h4> 
+    <br/>
+    <br/>Robotics, Optimization, and Assistive Mobility (ROAM) Lab <br/>
     [Department of Aerospace and Mechanical Engineering](https://ame.nd.edu/) <br/>
     University of Notre Dame"
   
