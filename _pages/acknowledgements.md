@@ -10,4 +10,5 @@ classes: wide
 ##### IEEE-RAS Technical Committee on Humanoid Robotics 
 ##### IEEE-RAS Technical Committee on Model-Based Optimization for Robotics
 ##### IEEE-RAS Technical Committee on Sustainable Production Automation
+##### IEEE-RAS Technical Committee on Robotics Research for Practicality 
 
