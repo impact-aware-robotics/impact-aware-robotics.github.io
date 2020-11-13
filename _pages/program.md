@@ -7,32 +7,31 @@ permalink: /program/
 
 | **Time** | **Speaker**          | **Organization** |                   **Title**                                      |
 | :-------------------------------------------------------------------------:|
-|  |**Session One: High Dynamic Task Modeling and Control**| |
+|  |**Session One:**| |
 | -----------------| -----------------|------------- | :-------------------------------------------------------------:|
-| 09:00 - 09:05   |                  |              |     Welcome                                                  |
-| 09:05 - 09:30    |  [Yuquan WANG](https://ywang-robotics.github.io/)     | CNRS-UM, LIRMM | Impact-Aware Task-Space Quadratic Programming Control       |
-| 09:30 - 09:50    |  [Alessandro Saccon](/speakers/saccon)    | Eindhoven University of Technology    | Reference Spreading Control and Sensitivity Analysis <br/>About Robot Trajectories with Simultaneous Impacts |
-| 09:50 - 10:20    | [JIA Yan-Bin](/speakers/yan-bin/) | Iowa State University  | Targeted Batting of In-flight Objects by a Robotic Arm |
+| 09:00 - 09:05    |                  |              |     Welcome                                                  |
+| 09:05 - 09:50    | [Patrick Wensing](/speakers/wensing)  | University of Notre Dame       |  It All Matters: Considerations Across Design and Control for Contact-Savvy Robots                                                            |
+| 09:50 - 10:30    | [JIA Yan-Bin](/speakers/yan-bin/) | Iowa State University  | Targeted Batting of In-flight Objects by a Robotic Arm |
 | 10:20 - 10:30    |                  |              |     Teaser Session of the Posters                            |
 | 10:30 - 11:00    |                  |              |     Morning Tea Break and Poster Session                     |
-|  |**Session Two: High Dynamic Balance**| | 
+|  |**Session Two:**| | 
 | **Time**             | **Speaker**          | **Organization** |                   **Title**                                      |
 | -----------------| -----------------|------------- | :-------------------------------------------------------------: |
 | 11:00 - 11:45    |  [Dragomir Nenchev ](/speakers/nenchev/) <br/>  (Yoshikazu Kanamiya) |  Kaishi Professional University | Emergent Humanoid Robot Motion Synergies <br/>Derived from the Momentum Equilibrium Principle and the Distribution of Momentum                                                             |
-| 11:45 - 12:30    |  [Roy Featherstone](/speakers/featherstone)       | Italian Institute of Technology       |  High Performance Balancing on a Narrow Support|
-| |**Session Three: Integrated Control and Hardware Design**| |
+| 11:45 - 12:30    | [Mehdi Benallegue](/speakers/benallegue)| AIST, Tsukuba Japan |    New challenges for humanoids state observation: <br/>beyond the precision of floating-base kinematics                    |
+| |**Session Three:**| |
 | -----------------| -----------------|------------- | :-------------------------------------------------------------: |
 | **Time**             | **Speaker**          | **Organization** |                   **Title**                                      |
 | -----------------| -----------------|------------- | :-------------------------------------------------------------:|
-| 13:30 - 14:00    |                  |              |                                                              |
-| 14:00 - 14:30    | [Patrick Wensing](/speakers/wensing)  | University of Notre Dame       |  It All Matters: Considerations Across Design and Control for Contact-Savvy Robots                                                            |
-| 14:30 - 15:00    | [REN Zeyu](/speakers/zeyu) | [Rokae R&D Center](https://www.rokae.com/) | Design of an Efficient 3-DoF Leg with Series-Parallel and Biarticular Compliant Actuation                                  |
+| 13:30 - 14:00    |  [Yuquan WANG](https://ywang-robotics.github.io/)     | CNRS-UM, LIRMM | Impact-Aware Task-Space Quadratic Programming Control       |
+| 14:00 - 14:30    | [REN Zeyu](/speakers/zeyu) | [Rokae R&D Center](https://www.rokae.com/) | Design of an Efficient 3-DoF Leg with Series-Parallel and Biarticular Compliant Actuation                                  |
+| 14:30 - 15:00    |  [Alessandro Saccon](/speakers/saccon)    | Eindhoven University of Technology    | Reference Spreading Control and Sensitivity Analysis <br/>About Robot Trajectories with Simultaneous Impacts |
 | 15:00 - 15:30    |                  |              |     Afternoon Tea Break and Poster Session                   |
 |   |**Session Four:**| |
 | -----------------| -----------------|------------- | :-------------------------------------------------------------:|
 | **Time**             | **Speaker**          | **Organization** |                   **Title**                                      |
 | -----------------| -----------------|------------- | :-------------------------------------------------------------:|
-| 15:30 - 16:00    | [Mehdi Benallegue](/speakers/benallegue)| AIST, Tsukuba Japan |    New challenges for humanoids state observation: <br/>beyond the precision of floating-base kinematics                    |
-| 16:00 - 16:30    |                  |              |                                                              |
-| 16:30 - 17:00    |                  |              |   Summary, Remarks, and Discussions                          |
+| 15:30 - 16:15    | [Aude Billard](/speakers/billard)  | EPFL |  Exploiting at last all degrees in freedom in humanoid robots to pick-up objects <br/> in-all parts of the configuration space, including in-between the legs and behind the robot's back                                                            |
+| 16:15 - 17:00    |  [Roy Featherstone](/speakers/featherstone)       | Italian Institute of Technology       |  High Performance Balancing on a Narrow Support|
+| 17:00    |                  |              |   Summary, Remarks, and Discussions                          |
 

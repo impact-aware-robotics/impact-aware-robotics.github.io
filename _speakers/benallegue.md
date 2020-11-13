@@ -16,6 +16,11 @@ toc: false
 collection: speakers
 ---
 
+<center style="font-size:30px">
+New challenges for humanoids state observation: beyond the precision of floating-base kinematics
+</center>
+
+##### Abstract
 
 With the advent of more and more dynamic motions with increasing autonomy, humanoid state estimation is becoming more and more a key factor, and sometimes a limiting one. Indeed, despite important improvements achieved in the last decade, the focus has been mostly to estimate the floating base kinematics with the highest level of precision. However, when the use of this feedback goes beyond the simple stabilization, the relevant state to observe needs to expand not only to its "kinetics" but also to the surrounding environment. Furthermore, the sole precision is a limited metric for the quality of an estimator in dynamic closed-loop control. In this talk, I will discuss some of the recent works in this field with the perspective of exploring the new desired features and properties needed for whole-body motion generation and control.
 

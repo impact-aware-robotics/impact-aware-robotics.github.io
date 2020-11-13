@@ -15,7 +15,7 @@ toc: false
 collection: speakers
 ---
 
-Short Biography of Dr. Roy Featherstone
+##### Short Biography 
 
 Dr. Featherstone is a researcher specializing in robot dynamics and related fields.  He is currently a professor in the Department of Advanced Robotics at the Italian Institute of Technology, where he works mainly on the Skippy Project which aims to create a highly athletic monopedal hopping and balancing robot.  He previously worked at the Australian National University; and before that he was a lecturer in the Department of Computer Science at the University of Wales, Aberystwyth, an EPSRC Advanced Research Fellow in the Department of Engineering Science (Robotics Group), Oxford University, and a senior researcher at Philips Research Laboratories, Briarcliff Manor, New York.  He obtained his Ph.D. at Edinburgh University (Dept. of Artificial Intelligence) and his first degree at Southampton University.  He is one of the world's leading experts on rigid-body dynamics, the inventor of the Articulated-Body Algorithm and the author of two books on dynamics.  He is also a Fellow of the IEEE and a member of its Robotics and Automation Society.
 
