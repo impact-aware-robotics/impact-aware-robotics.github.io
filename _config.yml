@@ -21,7 +21,7 @@ title                    : "High Dynamic Motion Generation"
 title_separator          : "-"
 subtitle                 : for Under-Actuated Robots
 name                     : #"High Dynamic Motion Generation of Under-Actuated Robots"
-description              : "Proposed Workshop@ICRA2021."
+description              : "Workshop@ICRA2021"
 url                      : https://impact-aware-robotics.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : impact-aware-robotics/impact-aware-robotics.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -94,9 +94,9 @@ analytics:
 
 # Site Author
 author:
-  name             : #"High Dynamic Motion Generation of Under-Actuated Robots"
+  name             : "June 4th, 2021"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Proposed Workshop@ICRA 2021"
+  bio              : "Workshop@ICRA-2021"
   location         : "Xi-An, China"
   email            : y.wang.robotics@gmail.com
   links:
