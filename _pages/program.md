@@ -3,7 +3,7 @@ title: "Schedule"
 permalink: /program/
 ---
 
-
+Concerning different [time zones](https://www.worldtimebuddy.com/?qm=1&lid=8,1816670,2988507,2643743&h=1816670&date=2021-6-4&sln=9-18&hf=1), please check the **same** program in: [CET time (GMT +2)]({{ "/program-cet/"}}){: .btn .btn--success .btn--medium} or [PDT Time]({{ "/program-pdt/"}}){: .btn .btn--success .btn--medium}. 
 
 | **June 4th, 2021**                                      |
 | :-------------------------------------------------------------------------:|
