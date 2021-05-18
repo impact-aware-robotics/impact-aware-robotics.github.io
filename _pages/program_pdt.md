@@ -3,7 +3,7 @@ title: "Schedule"
 permalink: /program-pdt/
 ---
 
-Concerning different time zones, please check the **same** program in: [Beijing Time (GMT +8)]({{ "/program/"}}){: .btn .btn--success .btn--medium} and [CET Time (GMT +2)]({{ "/program-cet/"}}){: .btn .btn--success .btn--medium}
+Concerning different time zones, please check the **same** program in: [Beijing Time (GMT +8)]({{ "/program/"}}){: .btn .btn--success .btn--medium} and [CEST Time (GMT +2)]({{ "/program-cest/"}}){: .btn .btn--success .btn--medium}
 
 
 | **June 3rd, 2021**                                      |
