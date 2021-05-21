@@ -1,6 +1,6 @@
 ---
 title: "Aude Billard"
-excerpt: "Exploiting at last all degrees in freedom in humanoid robots to pick-up objects in-all parts of the configuration space, including in-between the legs and behind the robot’s back"
+excerpt: "Machine learning and dynamical systems for adaptive manipulation in humanoid robots"
 
 layout: single 
 classes: wide
@@ -33,7 +33,7 @@ Professor Aude Billard is a Swiss physicist and pioneer in the fields of machine
 
 
 <center style="font-size:30px">
-Exploiting at last all degrees in freedom in humanoid robots to pick-up objects in-all parts of the configuration space, including in-between the legs and behind the robot’s back 
+Machine learning and dynamical systems for adaptive manipulation in humanoid robots
 </center>
 
 

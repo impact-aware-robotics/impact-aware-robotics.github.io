@@ -38,7 +38,7 @@ Concerning different time zones, please check the **same** program in: [Beijing 
 | -----------------| -----------------|------------- | :-------------------------------------------------------------:|
 | **Time**             | **Speaker**          | **Organization** |                   **Title**                                      |
 | -----------------| -----------------|------------- | :-------------------------------------------------------------:|
-| 00:30 - 01:15    | [Aude Billard](/speakers/billard)  | EPFL |  Exploiting at last all degrees in freedom in humanoid robots to pick-up objects <br/> in-all parts of the configuration space, including in-between the legs and behind the robot's back                                                            |
+| 00:30 - 01:15    | [Aude Billard](/speakers/billard)  | EPFL |  Machine learning and dynamical systems for adaptive manipulation in humanoid robots|
 | 01:15 - 02:00    |  [Roy Featherstone](/speakers/featherstone)       | Italian Institute of Technology       |  High Performance Balancing on a Narrow Support|
 | 02:00    |                  |              |   Summary, Remarks, and Discussions                          |
 
