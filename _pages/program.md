@@ -14,21 +14,20 @@ Concerning different [time zones](https://www.worldtimebuddy.com/?qm=1&lid=8,181
 | 09:00 - 09:05    |                  |              |     Welcome                                                  |
 | 09:05 - 09:50    | [Patrick Wensing](/speakers/wensing)  | University of Notre Dame       |  It All Matters: Considerations Across Design and Control for Contact-Savvy Robots                                                            |
 | 09:50 - 10:30    | [JIA Yan-Bin](/speakers/yan-bin/) | Iowa State University  | Targeted Batting of In-flight Objects by a Robotic Arm |
-| 10:20 - 10:30    |                  |              |     Teaser Session of the Posters                            |
-| 10:30 - 11:00    |                  |              |     Morning Tea Break and Poster Session                     |
 |  |**Session Two:**| | 
 | **Time**             | **Speaker**          | **Organization** |                   **Title**                                      |
 | -----------------| -----------------|------------- | :-------------------------------------------------------------: |
-| 11:00 - 11:45    |  [Dragomir Nenchev ](/speakers/nenchev/) <br/>  (Yoshikazu Kanamiya) |  Kaishi Professional University | Emergent Humanoid Robot Motion Synergies <br/>Derived from the Momentum Equilibrium Principle and the Distribution of Momentum                                                             |
-| 11:45 - 12:30    | [Mehdi Benallegue](/speakers/benallegue)| AIST, Tsukuba Japan |    New challenges for humanoids state observation: <br/>beyond the precision of floating-base kinematics                    |
+| 10:30 - 11:15    |  [Dragomir Nenchev ](/speakers/nenchev/) <br/>  (Yoshikazu Kanamiya) |  Kaishi Professional University | Emergent Humanoid Robot Motion Synergies <br/>Derived from the Momentum Equilibrium Principle and the Distribution of Momentum                                                             |
+| 11:15 - 11:55    | [Mehdi Benallegue](/speakers/benallegue)| AIST, Tsukuba Japan |    New challenges for humanoids state observation: <br/>beyond the precision of floating-base kinematics                    |
+| 11:55 - 12:05    |                  |              |     Teaser Session One|
 | |**Session Three:**| |
 | -----------------| -----------------|------------- | :-------------------------------------------------------------: |
 | **Time**             | **Speaker**          | **Organization** |                   **Title**                                      |
 | -----------------| -----------------|------------- | :-------------------------------------------------------------:|
-| 13:30 - 14:00    |  [Yuquan WANG](https://ywang-robotics.github.io/)     | CNRS-UM, LIRMM | Impact-Aware Task-Space Quadratic Programming Control       |
-| 14:00 - 14:30    | [REN Zeyu](/speakers/zeyu) | [Rokae R&D Center](https://www.rokae.com/) | Design of an Efficient 3-DoF Leg with Series-Parallel and Biarticular Compliant Actuation                                  |
-| 14:30 - 15:00    |  [Alessandro Saccon](/speakers/saccon)    | Eindhoven University of Technology    | Reference Spreading Control and Sensitivity Analysis <br/>About Robot Trajectories with Simultaneous Impacts |
-| 15:00 - 15:30    |                  |              |     Afternoon Tea Break and Poster Session                   |
+| 13:30 - 14:10    | [Yuquan WANG](https://ywang-robotics.github.io/)     | CNRS-UM, LIRMM | Impact-Aware Task-Space Quadratic Programming Control       |
+| 14:10 - 14:40    | [REN Zeyu](/speakers/zeyu) | [Rokae R&D Center](https://www.rokae.com/) | Design of an Efficient 3-DoF Leg with Series-Parallel and Biarticular Compliant Actuation                                  |
+| 14:40 - 14:50    |                  |              |     Teaser Session Two|
+| 14:50 - 15:30    |  [Alessandro Saccon](/speakers/saccon)    | Eindhoven University of Technology    | Reference Spreading Control and Sensitivity Analysis <br/>About Robot Trajectories with Simultaneous Impacts |
 |   |**Session Four:**| |
 | -----------------| -----------------|------------- | :-------------------------------------------------------------:|
 | **Time**             | **Speaker**          | **Organization** |                   **Title**                                      |
