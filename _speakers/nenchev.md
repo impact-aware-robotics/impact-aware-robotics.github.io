@@ -30,7 +30,12 @@ Emergent Humanoid Robot Motion Synergies Derived from the Momentum Equilibrium P
 
 The momentum equilibrium principle reveals the relative character of the spatial momentum equation in floating-base robotics. This talk clarifies how to take advantage of this character in motion generation and the design of a multitask controller for a humanoid robot. We focus especially on the angular momentum of the robot and the inherent redundancy resolution problem referred to as the “momentum distribution problem.” It is shown that with a proper momentum distribution, emergent behaviors (motion synergies) can be obtained that resemble those used by humans. A real-time controller for position and torque controlled humanoid robots is proposed that has a simple structure and that can be used in a broad variety of tasks. The performance of the controller is confirmed in a simulated environment with a number of tasks, including reactive motion control to accommodate external disturbances (both continuous-force and impacts), acrobatic tasks such as a somersault and a long jump, dynamic walking under various gaits with variable CoM height, blind stepping on an unknown obstacle, balancing on a wobble board and so on.
 
- 
+##### Documents
+
+ The talk will provide details from two recently accepted papers. The pdf files and the accompanying multimedia video attachments are available from the following link:  
+[https://www.dropbox.com/s/4ebr5bkszp8tq67/Nenchev-Kanamiya.zip?dl=0](https://www.dropbox.com/s/4ebr5bkszp8tq67/Nenchev-Kanamiya.zip?dl=0)
+
+
 | Simulation One |  Simulation Two|
 :-------------------------:|:-------------------------:
 [![Batting-flying-object](/docs/assets/videos/coverDynamicMotion.png)](/docs/assets/videos/Nenchev/IEEETrRobotics.mp4) |  [![Batting-flying-object](/docs/assets/videos/coverDynamicMotion.png)](/docs/assets/videos/Nenchev/Humanoids2020.mp4)
