@@ -2,7 +2,7 @@
 title: 'Three Workshop Papers Accepted'
 date: 2021-05-26
 permalink: /posts/2021/05/WorkshopPaper/
-excerpt: " Covers: deformable material, disturbance compensation, and environmental compliance"
+excerpt: "About: deformable material, disturbance compensation, and environmental compliance"
 test-permalink: /docs/posts/
 layout: single 
 classes: wide
