@@ -11,7 +11,7 @@ tags:
   - Workshop Paper
   -  
 ---
-* [Intentionally Impacting Deformable Material]()
+* [Intentionally Impacting Deformable Material](/docs/assets/WorkshopPapers/PaperThree.pdf)
      *  Niels Dehio, Abderrahmane Kheddar 
          * CNRS-University of Montpellier, LIRMM, Interactive Digital Humans group, <br/> Montpellier, France.
 
