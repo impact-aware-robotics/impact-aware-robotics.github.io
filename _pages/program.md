@@ -26,13 +26,13 @@ Concerning different [time zones](https://www.worldtimebuddy.com/?qm=1&lid=8,181
 | -----------------| -----------------|------------- | :-------------------------------------------------------------:|
 | 13:30 - 14:10    | [Yuquan WANG](https://ywang-robotics.github.io/)     | CNRS-UM, LIRMM | Impact-Aware Task-Space Quadratic Programming Control       |
 | 14:10 - 14:40    | [REN Zeyu](/speakers/zeyu) | [Rokae R&D Center](https://www.rokae.com/) | Design of an Efficient 3-DoF Leg with Series-Parallel and Biarticular Compliant Actuation                                  |
+| 14:40 - 15:20    |  [Alessandro Saccon](/speakers/saccon)    | Eindhoven University of Technology    | Reference Spreading Control and Sensitivity Analysis <br/>About Robot Trajectories with Simultaneous Impacts |
 | 14:40 - 14:50    |                  |              |     Teaser Session Two|
-| 14:50 - 15:30    |  [Alessandro Saccon](/speakers/saccon)    | Eindhoven University of Technology    | Reference Spreading Control and Sensitivity Analysis <br/>About Robot Trajectories with Simultaneous Impacts |
 |   |**Session Four:**| |
 | -----------------| -----------------|------------- | :-------------------------------------------------------------:|
 | **Time**             | **Speaker**          | **Organization** |                   **Title**                                      |
 | -----------------| -----------------|------------- | :-------------------------------------------------------------:|
 | 15:30 - 16:15    | [Aude Billard](/speakers/billard)  | EPFL |  Machine learning and dynamical systems for adaptive manipulation in humanoid robots           |
 | 16:15 - 17:00    |  [Roy Featherstone](/speakers/featherstone)       | Italian Institute of Technology       |  High Performance Balancing on a Narrow Support|
-| 17:00    |                  |              |   Summary, Remarks, and Discussions                          |
+| 17:00    |  [Abderrahmane Kheddar](http://jrl-umi3218.github.io/member-kheddar.html)                |      CNRS-UM, LIRMM     |   Summary, Remarks, and Discussions                          |
 
