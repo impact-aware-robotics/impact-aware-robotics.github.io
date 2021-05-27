@@ -22,6 +22,7 @@ We would like to thank the endorsement from the IEEE-RAS Technical Committees on
 Special thanks to the following organizations, we greatly improved the publicity via WeChat and will live stream through: 蔻享学术. 
 
 *  微信公众号:  机器人大讲堂 (RoboSpeak)
+*  微信公众号:  运筹帷幄专业学术社区
 *  中国留德学者计算机学会 [http://www.gci-online.de/](http://www.gci-online.de/)
 *  Live Streaming: 
    *  Wandelbots [https://wandelbots.com/en/](https://wandelbots.com/en/)
