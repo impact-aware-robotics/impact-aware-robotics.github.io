@@ -17,15 +17,16 @@ tags:
 
 
 
+ * [Co-design of Environmental Compliance for High-speed Contact Tasks](/docs/assets/WorkshopPapers/PaperTwo.pdf)
+     *  Richard Hartisch, Kevin Haninger 
+         * Fraunhofer Institute für Produktionsanlagen und Konstruktionstechnik, <br/>
+           Department of Automation, Berlin, Germany
+
 
  * [A Predictive Control Framework for Manipulator on a Disturbed Sea-Born Platform](/docs/assets/WorkshopPapers/PaperOne.pdf)
      *  Ruoyu Xu, Xiaoqiang Ji, Jiafan Hou, Hengli Liu and Huihuan Qian
          * Shenzhen Institute of Artificial Intelligence and Robotics for Society
          * The Chinese University of Hong Kong, Shenzhen
-
- * [Co-design of Environmental Compliance for High-speed Contact Tasks](/docs/assets/WorkshopPapers/PaperTwo.pdf)
-     *  Richard Hartisch, Kevin Haninger 
-         * Fraunhofer Institute für Produktionsanlagen und Konstruktionstechnik, <br/>
-           Department of Automation, Berlin, Germany
+     *  Video attachment:  [![USV-MPC](/docs/assets/videos/ruoyu.png)](https://www.youtube.com/watch?v=jD3X1VJltrE)
 
 
