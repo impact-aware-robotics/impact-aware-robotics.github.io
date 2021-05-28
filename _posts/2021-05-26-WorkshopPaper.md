@@ -22,6 +22,7 @@ tags:
          * Fraunhofer Institute für Produktionsanlagen und Konstruktionstechnik, <br/>
            Department of Automation, Berlin, Germany
 
+     *  Several multi-media materials are available through the link:  [https://owncloud.fraunhofer.de/index.php/s/l7ZY2MpXQhRTUq2](https://owncloud.fraunhofer.de/index.php/s/l7ZY2MpXQhRTUq2)
 
  * [A Predictive Control Framework for Manipulator on a Disturbed Sea-Born Platform](/docs/assets/WorkshopPapers/PaperOne.pdf)
      *  Ruoyu Xu, Xiaoqiang Ji, Jiafan Hou, Hengli Liu and Huihuan Qian
