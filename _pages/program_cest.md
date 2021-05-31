@@ -21,7 +21,7 @@ Concerning different time zones, please check the **same** program in: [Beijing 
 | **Time**             | **Speaker**          | **Organization** |                   **Title**                                      |
 | -----------------| -----------------|------------- | :-------------------------------------------------------------: |
 | 04:30 - 05:15    |  [Dragomir Nenchev ](/speakers/nenchev/) <br/>  (Yoshikazu Kanamiya) |  Kaishi Professional University | Emergent Humanoid Robot Motion Synergies <br/>Derived from the Momentum Equilibrium Principle and the Distribution of Momentum                                                             |
-| 05:15 - 05:55    | [Mehdi Benallegue](/speakers/benallegue)| AIST, Tsukuba Japan |    New challenges for humanoids state observation: <br/>beyond the precision of floating-base kinematics                    |
+| 05:15 - 05:55    | [Mehdi Benallegue](/speakers/benallegue)| AIST, Tsukuba Japan |   The three laws of robotics subjected to unexpected external forces: <br/>estimation, rejection, and performance  |
 | 05:55 - 06:05    |                  |              |     Teaser Session One|
 | |**Session Three:**| |
 | -----------------| -----------------|------------- | :-------------------------------------------------------------: |

@@ -1,6 +1,7 @@
 ---
 title: "Mehdi Benallegue"
-excerpt: "New challenges for humanoids state observation: <br/>beyond the precision of floating-base kinematics"
+excerpt: "The three laws of robotics subjected to unexpected external forces: estimation, rejection, and performance"
+
 layout: single 
 classes: wide
 
@@ -17,12 +18,13 @@ collection: speakers
 ---
 
 <center style="font-size:30px">
-New challenges for humanoids state observation: beyond the precision of floating-base kinematics
+The three laws of robotics subjected to unexpected external forces: estimation, rejection, and performance
 </center>
 
 ##### Abstract
 
-With the advent of more and more dynamic motions with increasing autonomy, humanoid state estimation is becoming more and more a key factor, and sometimes a limiting one. Indeed, despite important improvements achieved in the last decade, the focus has been mostly to estimate the floating base kinematics with the highest level of precision. However, when the use of this feedback goes beyond the simple stabilization, the relevant state to observe needs to expand not only to its "kinetics" but also to the surrounding environment. Furthermore, the sole precision is a limited metric for the quality of an estimator in dynamic closed-loop control. In this talk, I will discuss some of the recent works in this field with the perspective of exploring the new desired features and properties needed for whole-body motion generation and control.
+
+With the advent of more and more dynamic motions in less structured environments, the forces exerted on the robots become not only less predictable but also less modelable. In this context, the robots are required to provide at least three guarantees. The first one is to limit these forces for the sake of safety, and thus to estimate their positions and intensities. We show in this talk how pushing beyond the quest for the mere precision of the floating-based kinematics we can build a rich estimation of the kinetics and the external forces applied on the robot. The second requirement is to prevent failure and to be robust to these disturbances. We present for that an estimator theoretically guaranteeing to fully ignore such disturbances whatever their magnitude. The third requirement is to guarantee a sufficient level of performance despite the disturbance. To realize that we show how to achieve passive compliance with minimal task-performance loss even on robots with a high reduction ratio and no torque feedback. Finally, we discuss the important missing bricks to actually respect these requirements.
 
 
 
