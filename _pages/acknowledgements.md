@@ -25,9 +25,11 @@ to the following organizations, we greatly improved the publicity via WeChat and
 
 *  中国留德学者计算机学会 [http://www.gci-online.de/](http://www.gci-online.de/)
 
-*  Wandelbots [https://wandelbots.com/en/](https://wandelbots.com/en/)
+*  德国 Wandelbots [https://wandelbots.com/en/](https://wandelbots.com/en/)
 
 *  中国致公党江苏省委会引凤工程 [http://jse.zhimaqiao.com/](http://jse.zhimaqiao.com/)
+
+*  瑞典 FellowBot AB [https://www.fellow-bot.com/](https://www.fellow-bot.com/)
 
 ##### Social Media: 
 *  微信公众号:  机器人大讲堂 (RoboSpeak)
