@@ -18,17 +18,18 @@ Concerning different [time zones](https://www.worldtimebuddy.com/?qm=1&lid=8,181
 | **Time**             | **Speaker**          | **Organization** |                   **Title**                                      |
 | -----------------| -----------------|------------- | :-------------------------------------------------------------: |
 | 10:30 - 11:15    |  [Dragomir Nenchev ](/speakers/nenchev/) <br/>  (Yoshikazu Kanamiya) |  Kaishi Professional University | Emergent Humanoid Robot Motion Synergies <br/>Derived from the Momentum Equilibrium Principle and the Distribution of Momentum                                                             |
-| 11:15 - 11:55    | [Mehdi Benallegue](/speakers/benallegue)| AIST, Tsukuba Japan |    New challenges for humanoids state observation: <br/>beyond the precision of floating-base kinematics                    |
-| 11:55 - 12:05    |                  |              |     Teaser Session One|
+| 11:15 - 11:55    | [Mehdi Benallegue](/speakers/benallegue)| AIST, Tsukuba Japan |    The three laws of robotics subjected to unexpected external forces: <br/>estimation, rejection, and performance                    |
+| 11:55 - 12:05    |  Ruoyu Xu                |  AIRs, CUHK, Shenzhen            |  Teaser Session:  [A Predictive Control Framework for Manipulator on a Disturbed Sea-Born Platform](/docs/assets/WorkshopPapers/PaperOne.pdf)
+ |
 | |**Session Three:**| |
 | -----------------| -----------------|------------- | :-------------------------------------------------------------: |
 | **Time**             | **Speaker**          | **Organization** |                   **Title**                                      |
 | -----------------| -----------------|------------- | :-------------------------------------------------------------:|
 | 13:20 - 13:50    | [REN Zeyu](/speakers/zeyu) | [Rokae R&D Center](https://www.rokae.com/) | Design of an Efficient 3-DoF Leg with Series-Parallel and Biarticular Compliant Actuation                                  |
-| 13:50 - 14:00    |                  |              |     Teaser Session Two|
+| 13:50 - 14:00    |  Richard Hartisch        |       Fraunhofer IPK   |   Teaser Session: [Co-design of Environmental Compliance for High-speed Contact Tasks](/docs/assets/WorkshopPapers/PaperTwo.pdf)|
 | 14:00 - 14:40    | [Yuquan WANG](https://ywang-robotics.github.io/)     | CNRS-UM, LIRMM | Impact-Aware Task-Space Quadratic Programming Control       |
 | 14:40 - 15:20    |  [Alessandro Saccon](/speakers/saccon)    | Eindhoven University of Technology    | Reference Spreading Control and Sensitivity Analysis <br/>About Robot Trajectories with Simultaneous Impacts |
-| 15:20 - 15:30    |                  |              |     Teaser Session Three|
+| 15:20 - 15:30    | Niels Dehio     | CNRS-UM, LIRMM         |   Teaser Session: [Intentionally Impacting Deformable Material](/docs/assets/WorkshopPapers/PaperThree.pdf) |
 |   |**Session Four:**| |
 | -----------------| -----------------|------------- | :-------------------------------------------------------------:|
 | **Time**             | **Speaker**          | **Organization** |                   **Title**                                      |
