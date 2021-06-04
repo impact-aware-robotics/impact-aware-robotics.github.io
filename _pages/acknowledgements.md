@@ -45,3 +45,12 @@ We are grateful for the dedicated efforts and time from the workshop paper revie
 * Yukiko Osawa 
 * Zeyu Ren 
 
+#####  ZOOM Presentation: 
+
+Thanks to the valuable time of 
+
+* Zhu Xin 
+* Dong Yue 
+
+from BIT. Without their assistance, the virtual event over the three-continent will be much harder!
+
