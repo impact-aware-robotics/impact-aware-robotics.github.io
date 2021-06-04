@@ -28,3 +28,8 @@ His URL is [http://royfeatherstone.org](http://royfeatherstone.org).
 
 
 This talk will present recent advances in the physics and control of high-performance balancing that we have made as part of the Skippy project. Our approach has been to treat balancing as a physical process, rather than an exercise in control theory, and to study it from a physical point of view.  As a result, we have identified the physical properties that are important for balancing; we can quantify how good a robot is at balancing, and therefore design robots explicitly to be good at balancing; we can extract the relatively simple dynamics of balancing from the potentially complex complete dynamics of the whole robot; and we can design balance controllers that exhibit higher levels of speed, accuracy and robustness than previously reported.
+
+##### Demonstration Video: 
+
+[![Dynamic-balance](/docs/assets/images/balance.png)](/docs/assets/videos/icra2021rf.mp4)
+
