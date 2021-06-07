@@ -31,5 +31,7 @@ This talk will present recent advances in the physics and control of high-perfor
 
 ##### Demonstration Video: 
 
-[![Dynamic-balance](/docs/assets/images/balance.png)](/docs/assets/videos/icra2021rf.mp4)
+<iframe width="750" height="450" src="/docs/assets/videos/icra2021rf.mp4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<hr/>
+
 

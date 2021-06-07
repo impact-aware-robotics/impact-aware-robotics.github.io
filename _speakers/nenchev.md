@@ -40,4 +40,3 @@ The momentum equilibrium principle reveals the relative character of the spatial
 :-------------------------:|:-------------------------:
 [![Batting-flying-object](/docs/assets/videos/coverDynamicMotion.png)](/docs/assets/videos/Nenchev/IEEETrRobotics.mp4) |  [![Batting-flying-object](/docs/assets/videos/coverDynamicMotion.png)](/docs/assets/videos/Nenchev/Humanoids2020.mp4)
 
-
